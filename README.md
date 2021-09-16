@@ -1,4 +1,4 @@
-# vue-pages
+# portfolio
 
 ## Project setup
 ```
