@@ -22,7 +22,7 @@
         },
         data: function () {
             return{
-                txt: ["Hi!", "I'm Jenny.","A junior web developer and enthusiast!"],
+                txt: ["Hi!", "I'm Jenny.","A software developer and enthusiast!"],
                 age : ''
             }
         },
