@@ -10,21 +10,21 @@
     </div>
     <router-view/>
     <footer id="contact">
-      <h2>Contact for more</h2>
-      <div id="contacts_el">
-        <div class="mail_icon">
-          <a href="mailto://bolenajenny@gmail.com" target="_blank" class="ref_icon">
-            <i class="fas fa-envelope"></i><p class="toolpit">bolenajenny@gmail.com</p>
-          </a>
+        <h2>Contact for more</h2>
+        <div id="contacts_el">
+          <div class="mail_icon">
+            <a href="mailto://bolenajenny@gmail.com" target="_blank" class="ref_icon">
+              <i class="fas fa-envelope"></i><p class="toolpit">bolenajenny@gmail.com</p>
+            </a>
+          </div>
+          <div class="linkedIn_icon">
+            <a href="https://www.linkedin.com/in/jenny-bolena/" target="_blank" class="ref_icon">
+              <i class="fab fa-linkedin-in"></i>
+            </a>
+          </div>
         </div>
-        <div class="linkedIn_icon">
-          <a href="https://www.linkedin.com/in/jenny-bolena/" target="_blank" class="ref_icon">
-            <i class="fab fa-linkedin-in"></i>
-          </a>
-        </div>
-      </div>
-      <h5>© 2021 Jenny Bolena</h5>
-    </footer>
+        <h5>© 2021 Jenny Bolena</h5>
+      </footer>
 
   </div>
 </template>
